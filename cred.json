@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "single-arcana-291418",
+  "private_key_id": "6a7ca374912069de248344e00940f19b1219bcb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdVlFGqftv2AKG\n39VpGVJEp9tfIgQUTAhYvy/FEMh93jw7hRwGc1RTUSUUDlT00c9q2e9JXEFO7O0x\nKyLt3LqMnfs9PAsNNzCszjYd7DAsTWzziVZmLbfU8ki4vC/aITrzeCalaskkOwTU\no8KzALNPrCoX1FGAJlDOTSzuoJ9rZGHA+mMdFdvsvtdxsN+Wz0SjWyKPLoIwN+a1\nbj688nK27+jxxQKycWeFnFzQ+sMBCrSbIq5yU9gU+gkmiP51Da9uI0XoizGngB1j\nFcKXxROrzaP6GxTSskarIXXFi/mVQY4Vd6bF+wPKD1sX8okZ00/z2Gw8IcIHXOGB\nQ1op27k/AgMBAAECggEAB5Qnqxc3W4OqBNQrA/p/xNCEbSMxfhwheiDkzKx1HoxX\na2iLLoux9VIfI/BYIEjWTGfTXRMauZIJD4lr5SLw63gVU4ryX1XCvE2HPCQV4p8X\nee2qIew0LYeUKtiJwjXqkIgU7c/kgMsaUvcmbZfsNeYYSviOX8q4sWSfSZ6mvzX4\nXxDcJxfZMM41s4Z46weEsRNf4YWevw7eKwSP/kq5fd4BSJHwhHc7G+LRPdAsvbse\nogMuqKJ+wb3U42pGgXS5RYT/ddC3POdfItGY/uPZp4jzRx+7WntQbp9S0wYN/09W\n7rAJk55h7ThD8zLCSZNerul8i+pXN0a5TT9mpE/y/QKBgQDdx8ExpdQBgix7lIDk\noi9LUOhP0q0TZscAKrzoftvjTZybYFte0wbq4zLirq8mi1/UBudFOm9pd1wHpFFj\nKreRO6xwnk6V5VUJSI2ixBuaVUZmoTAnOwAeNMW1z2GR8JhNRazMxy9htY8bNJ2j\nc94OUjFUrp3cUPD0a6Ja9tNgZQKBgQC1nRT7B1IMiItDOCybISMZLzG/s4ELzBuc\nqTS1SGxm854q4XmN8cpmwbF28nvYGS15/35oYbX15tZ9pLkQ4oR/rehoJxhlS1D1\nrZAndtJsPLRzf6AwOI8lX1WCi5rCP+bTCQwR9ufWLLSYbpfvlQmFujzH/nz67DSL\n0Iwms6rO0wKBgFFI6VIdCTsUTuFsaGFj4Bmmqb635J97x+wTvfEorcb9pyx7gIGc\nrqhgZUIX7DIgWxsG/LSu2i65hI14eCv0eBtO18DfBMaDq0sfwGmrnsJOBuOOqGt4\ngG6RwPUF8SjgGbIYm2DikEcrmCvMeQpzaSuujE4RQeKB+A5ddMAKPybRAoGBAJHK\nccc6jzEkg7cIZzZ5GXXkHumnLdbMmPXgF0HXy72xn60Ip8285iArKU01RxmozIr9\nAPrGRY4LKvBdxXq6fGcKsmC50amvFmTCWdB0YGMnMCzvrSZIoRD9QOW1MBzzs1aC\nEsBxFpcl+CvNzAY1/Bjv8k8SCj5cU6pRVdDTtjClAoGAFOztnBWBnDKARLpzjJAw\nIAqbkiNh5yNth24u8KXKPU6KjAkDgoI5R1A3PHL8tMyY6Nmh/BfU6+xsLH4epdKd\nfvIuyJYL3SqXg7mF0+trz51cbJr2a09toP0RwFREHiHv5PrZwuV9mfejlON0cCza\n4GHK5ixNL+fhDMpRhuljt0I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "twitter-analysis@single-arcana-291418.iam.gserviceaccount.com",
+  "client_id": "100834910731839937993",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twitter-analysis%40single-arcana-291418.iam.gserviceaccount.com"
+}
